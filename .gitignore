@@ -1,0 +1,9 @@
+.env
+__pycache__/
+*.pyc
+.streamlit/secrets.toml
+REVISAO_JIRA.md
+*.m4a
+*.mp3
+*.wav
+*.pdf
